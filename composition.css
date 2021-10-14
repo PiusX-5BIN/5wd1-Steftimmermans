@@ -1,0 +1,23 @@
+/*COMPOSITION*/
+/*heeft alles al te maken met ruimte en layout*/
+/*we beginnen met ruimte (layout is voor een volgende les*/
+
+img {
+    max-width: 100;
+}
+
+body {
+    margin: 0;
+}
+
+#socialeMedia>* {
+    margin: 1rem;
+}
+
+#socialmedialijst>li {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+#social
